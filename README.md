@@ -41,8 +41,8 @@ Sistem Antrian Pukesmas Untuk Pasien Umum
 ## Feedback
 
 Berikan feedback atau Ingin Memproleh SourceCode:
-
-[![Email](https://img.shields.io/badge/Kontak%20Developer-red?style=for-the-badge&logo=mail.ru)](mailto:mikozua45@gmail.com)
+**EMAIL DEVELOPER**
+mikozua45@gmail.com
 
 
 
